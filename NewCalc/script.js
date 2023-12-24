@@ -73,3 +73,5 @@ btnEquals.addEventListener("click", function () {
 btnClear.addEventListener("click", function () {
   OutPut.textContent = "";
 });
+
+
